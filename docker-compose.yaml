@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  dart_pokemon_server:
+    container_name: dart_pokemon_server
+    image: mthsena/dart_pokemon_server
+    build: ./
+    ports:
+      - 8080:3000

@@ -1,0 +1,13 @@
+**/.DS_Store
+.dart_tool/
+.dockerignore
+.git/
+.github/
+.gitignore
+.packages
+build/
+dockerfile
+docker-compose.yaml
+analysis_options.yaml
+CHANGELOG.md
+README.md
